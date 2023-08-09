@@ -7,7 +7,7 @@
 
 	Copyleft (c) 1993 C and System Programmers Association
 	All Rights Free
-----------------------------------------------------------------*/
+-----------------------------------------------------------------*/
 package com.eminpolat.util.collection;
 
 import java.util.Arrays;
